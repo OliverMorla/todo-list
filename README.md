@@ -6,7 +6,7 @@ A digital to-do list created with vanilla JavaScript is a program that allows us
 # Preview
 ![Screenshot (6)](https://user-images.githubusercontent.com/73266650/212059289-50687198-af6a-48ad-b5de-75640859043c.png)
 
-**Link:** https://raw.githack.com/OliverMorla/digitalStopWatch/main/index.html
+**Link:** https://raw.githack.com/OliverMorla/digitalTodoList/main/index.html
 
 # Changelog
  **Date Format: mm/dd/yy**
