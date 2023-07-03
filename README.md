@@ -1,15 +1,55 @@
-# digitalTodoList
-Digital To-Do List created with Vanilla JavaScript.
+# Todo List
 
-A digital to-do list created with vanilla JavaScript is a program that allows users to create and manage a list of tasks to be completed on a webpage. The to-do list includes features such as the ability to add new tasks, and remove tasks from the list. The program utilizes vanilla JavaScript to dynamically update the list on the webpage in real-time as the user interacts with it. This project allows users to easily keep track of their tasks and stay organized on the webpage. The to-do list is created using HTML, CSS, and JavaScript, which allows for a custom design and formatting. Additionally, the project is created using only vanilla JavaScript, which means it doesn't require any external libraries or frameworks and can be easily integrated into any website. This to-do list is perfect for anyone who wants to stay organized on their website, whether it's for personal or professional use. It is lightweight and easy to use, making it perfect for beginners or those who want to quickly add a to-do list to their webpage. You could also include any specific feature that you added on your to-do list like extra functionalities or design details that you would like to highlight. It also has the advantage of being easily accessible, as the user doesn't need to sign in or have an account, it's simple and reliable as it works offline.
+This repository contains the code for a simple, yet effective, to-do list web application. This application is designed using vanilla JavaScript, HTML, and CSS, demonstrating the powerful capabilities of these fundamental technologies.
 
-# Preview
-![Screenshot (6)](https://user-images.githubusercontent.com/73266650/212059289-50687198-af6a-48ad-b5de-75640859043c.png)
+The live demo of the application can be accessed [here](https://todo-list-five-black.vercel.app/).
 
-**Link:** https://raw.githack.com/OliverMorla/digitalTodoList/main/index.html
+## Features
 
-# Changelog
- **Date Format: mm/dd/yy**
+- **Task Creation**: Add new tasks to your to-do list.
+- **Task Editing**: Modify existing tasks as needed.
+- **Task Deletion**: Remove completed or unnecessary tasks from your list.
 
-**01/12/23**
-- No Changes
+## Technologies Used
+
+- JavaScript
+- HTML
+- CSS
+
+## Demo
+
+The live demo of the to-do list application is hosted on [Vercel](https://vercel.com). You can view it [here](https://todo-list-five-black.vercel.app/).
+
+## Installation
+
+To run this application locally, follow these steps:
+
+Clone the repository:
+
+```bash
+git clone https://github.com/<your-github-username>/todo-list.git
+```
+
+Navigate into the project directory:
+
+```bash
+cd todo-list
+```
+
+Open the `index.html` file in your preferred web browser:
+
+```bash
+open index.html
+```
+
+## Contributing
+
+While this is primarily for personal use, any suggestions for improvements are welcome. Feel free to create an issue or make a pull request.
+
+## Connect with Me
+
+- [Portfolio](https://www.olivermorla.com)
+- [LinkedIn](https://www.linkedin.com/in/oliver-morla)
+- [Email](mailto:olivermorla3@email.com)
+
+Don't forget to leave a ⭐ if you found this useful.
